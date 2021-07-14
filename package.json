@@ -1,0 +1,24 @@
+{
+  "name": "stutter-bot",
+  "version": "1.0.0",
+  "description": "A fun discord bot that makes people stutter",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GleemingKnight/stutter-discord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GleemingKnight/stutter-discord/issues"
+  },
+  "homepage": "https://github.com/GleemingKnight/stutter-discord#readme"
+}
