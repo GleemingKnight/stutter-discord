@@ -1,6 +1,6 @@
 # Stutter Discord Bot
-This is just a fun discord bot that makes it so users with a certain role\
-will stutter whenever attempting to speak in any channel\
+This is just a fun discord bot that makes it so users with a certain \
+role will stutter whenever attempting to speak in any channel
 
 ### How to use 
 ```
